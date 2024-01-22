@@ -10,5 +10,7 @@ it was made solely for fun.
 In the game it's used the random library, made in python 3.12 JetBrains PyCharm.
 
 Source code: https://github.com/GyunerGMehmed/Dice_rolling_game_By_Crim/blob/main/dice_rolling_game.py
+
+
 Images: 
 <img alt = "Image" src = "https://github.com/GyunerGMehmed/Dice_rolling_game_By_Crim/assets/95441473/722cfdc8-8b4d-4eb7-8692-7ae75acc0655"/>
