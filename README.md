@@ -1,4 +1,4 @@
-# Dice_rolling_game_By_Crim
+# Dice rolling game By Crim
 
 
 The game started as a simple dice rolling game where when typed "y" you roll a dice and get a random number from 1-6.
